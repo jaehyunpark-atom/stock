@@ -68,17 +68,17 @@
   },
   "pending_alert": null,
   "ticker": "QQQ",
-  "current_price": 718.45,
+  "current_price": 723.7,
   "ath": 745.34,
   "ath_date": "2026-06-02",
-  "drawdown_pct": -3.61,
+  "drawdown_pct": -2.9,
   "bounce": {
     "local_low": 661.73,
-    "bounce_pct": 8.57,
-    "consecutive_up_days": 0,
+    "bounce_pct": 9.36,
+    "consecutive_up_days": 1,
     "confirmed": true
   },
-  "qld_price": 90.98,
-  "tqqq_price": 73.06,
-  "usd_krw_rate": 1412.64
+  "qld_price": 92.32,
+  "tqqq_price": 74.6,
+  "usd_krw_rate": 1417.01
 }
