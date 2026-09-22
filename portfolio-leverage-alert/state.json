@@ -1,9 +1,9 @@
 {
   "tiers": {
     "QLD:-10": {
-      "status": "IN",
-      "shares": 12,
-      "entry_price": 82.31
+      "status": "WAIT",
+      "shares": 0,
+      "entry_price": null
     },
     "QLD:-15": {
       "status": "WAIT",
@@ -66,19 +66,19 @@
       "entry_price": null
     }
   },
-  "pending_alert": null,
+  "pending_alert": "🔻QQQ0.0% QLD-10%tier 12주익절매도",
   "ticker": "QQQ",
-  "current_price": 741.47,
-  "ath": 745.34,
-  "ath_date": "2026-06-02",
-  "drawdown_pct": -0.52,
+  "current_price": 747.46,
+  "ath": 747.46,
+  "ath_date": "2026-09-22",
+  "drawdown_pct": 0.0,
   "bounce": {
-    "local_low": 704.54,
-    "bounce_pct": 5.24,
-    "consecutive_up_days": 4,
+    "local_low": 703.81,
+    "bounce_pct": 6.2,
+    "consecutive_up_days": 5,
     "confirmed": true
   },
-  "qld_price": 96.27,
-  "tqqq_price": 78.91,
-  "usd_krw_rate": 1374.71
+  "qld_price": 97.82,
+  "tqqq_price": 80.83,
+  "usd_krw_rate": 1355.14
 }
