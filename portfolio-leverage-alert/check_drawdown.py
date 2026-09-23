@@ -37,8 +37,10 @@ QLD_TIERS = [-10, -15, -20, -25, -30, -35]
 TQQQ_TIERS = [-45, -50, -55, -60, -65, -70, -75]  # 닷컴버블급 전용 리저브
 
 # 상품별 총 예산(원화). 각 tier는 이걸 tier 개수로 균등분할해서 받는다.
-QLD_BUDGET_KRW = 9_000_000
-TQQQ_BUDGET_KRW = 6_000_000
+# 순자산의 10%(2026-09-24 기준 순자산 2.2억 -> 위성 예산 2,200만) 기준으로 산정.
+# 순자산이 유의미하게 바뀌면 이 비율 기준으로 다시 계산할 것.
+QLD_BUDGET_KRW = 13_200_000  # 위성 예산의 60%
+TQQQ_BUDGET_KRW = 8_800_000  # 위성 예산의 40%
 TIER_BUDGET_KRW = {t: QLD_BUDGET_KRW / len(QLD_TIERS) for t in QLD_TIERS}
 TIER_BUDGET_KRW.update({t: TQQQ_BUDGET_KRW / len(TQQQ_TIERS) for t in TQQQ_TIERS})
 
