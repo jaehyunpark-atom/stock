@@ -68,17 +68,17 @@
   },
   "pending_alert": "🔻QQQ0.0% QLD-10%tier 12주익절매도",
   "ticker": "QQQ",
-  "current_price": 749.58,
+  "current_price": NaN,
   "ath": 749.58,
   "ath_date": "2026-10-02",
-  "drawdown_pct": 0.0,
+  "drawdown_pct": NaN,
   "bounce": {
     "local_low": 703.81,
-    "bounce_pct": 6.5,
-    "consecutive_up_days": 4,
-    "confirmed": true
+    "bounce_pct": NaN,
+    "consecutive_up_days": 0,
+    "confirmed": false
   },
-  "qld_price": 98.13,
-  "tqqq_price": 81.01,
-  "usd_krw_rate": 1342.89
+  "qld_price": NaN,
+  "tqqq_price": NaN,
+  "usd_krw_rate": 1343.96
 }
