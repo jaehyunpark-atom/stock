@@ -73,12 +73,12 @@
   "ath_date": "2026-10-06",
   "drawdown_pct": NaN,
   "bounce": {
-    "local_low": 716.17,
+    "local_low": 720.7,
     "bounce_pct": NaN,
     "consecutive_up_days": 0,
     "confirmed": false
   },
   "qld_price": NaN,
   "tqqq_price": NaN,
-  "usd_krw_rate": 1337.3
+  "usd_krw_rate": 1343.09
 }
