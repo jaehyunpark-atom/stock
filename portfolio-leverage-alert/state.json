@@ -2,8 +2,8 @@
   "tiers": {
     "QLD:-10": {
       "status": "IN",
-      "shares": 19,
-      "entry_price": 82.81
+      "shares": 20,
+      "entry_price": 79.5
     },
     "QLD:-15": {
       "status": "WAIT",
