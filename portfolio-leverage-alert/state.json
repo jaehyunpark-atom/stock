@@ -68,17 +68,17 @@
   },
   "pending_alert": "🔔QQQ고점(2026-10-06)대비-8.9%, 반등+1.6% QLD-10%tier 19주매수",
   "ticker": "QQQ",
-  "current_price": 661.75,
+  "current_price": NaN,
   "ath": 759.66,
   "ath_date": "2026-10-06",
-  "drawdown_pct": -12.89,
+  "drawdown_pct": NaN,
   "bounce": {
     "local_low": 647.05,
-    "bounce_pct": 2.27,
+    "bounce_pct": NaN,
     "consecutive_up_days": 0,
     "confirmed": false
   },
-  "qld_price": 75.08,
-  "tqqq_price": 53.03,
-  "usd_krw_rate": 1338.81
+  "qld_price": NaN,
+  "tqqq_price": NaN,
+  "usd_krw_rate": 1327.98
 }
