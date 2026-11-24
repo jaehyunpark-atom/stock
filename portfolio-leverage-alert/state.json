@@ -6,9 +6,9 @@
       "entry_price": null
     },
     "QLD:-15": {
-      "status": "PENDING",
-      "shares": 0,
-      "entry_price": null
+      "status": "IN",
+      "shares": 22,
+      "entry_price": 71.91
     },
     "QLD:-20": {
       "status": "WAIT",
@@ -66,19 +66,19 @@
       "entry_price": null
     }
   },
-  "pending_alert": "🔻QQQ-19.9% QLD-10%tier 20주손절매도",
+  "pending_alert": "🔔QQQ고점(2026-10-06)대비-14.3%, 반등+7.0% QLD-15%tier 22주매수",
   "ticker": "QQQ",
-  "current_price": 608.45,
+  "current_price": 651.03,
   "ath": 759.66,
   "ath_date": "2026-10-06",
-  "drawdown_pct": -19.9,
+  "drawdown_pct": -14.3,
   "bounce": {
     "local_low": 608.45,
-    "bounce_pct": 0.0,
-    "consecutive_up_days": 0,
-    "confirmed": false
+    "bounce_pct": 7.0,
+    "consecutive_up_days": 1,
+    "confirmed": true
   },
-  "qld_price": 63.52,
-  "tqqq_price": 41.2,
-  "usd_krw_rate": 1341.99
+  "qld_price": 71.91,
+  "tqqq_price": 49.1,
+  "usd_krw_rate": 1343.03
 }
